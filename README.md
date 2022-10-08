@@ -1,4 +1,4 @@
-[TODO: Replace with your Netflify status badge]
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8a9bce44-b82d-4e2e-b34d-e3ba725cb608/deploy-status)](https://app.netlify.com/sites/roaring-paletas-4b8c4b/deploys)
 
 # HTML and CSS Assessment
 
@@ -57,4 +57,4 @@ You must push all the code to this repository. It's advisable to work on your co
 1. [Fajar Siddiq](https://fajarsiddiq.com)
 1. [Lee Robinson](https://leerob.io)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8a9bce44-b82d-4e2e-b34d-e3ba725cb608/deploy-status)](https://app.netlify.com/sites/roaring-paletas-4b8c4b/deploys)
+
